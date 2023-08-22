@@ -13,5 +13,11 @@ A través de plataformas como YouTube, Instagram y Twitch, comparto ideas y lecc
 <a href="https://youtube.com/@Kureikode"> </a>
 
 <h2>Tecnologias: </h2>
-
-<h2>Videos de Youtube: </h2>
+<a href="https://github.com/Kureikode"> </a>
+<a href="https://github.com/Kureikode"> </a>
+<a href="https://github.com/Kureikode"> </a>
+<a href="https://github.com/Kureikode"> </a>
+<a href="https://github.com/Kureikode"> </a>
+<a href="https://github.com/Kureikode"> </a>
+<a href="https://github.com/Kureikode"> </a>
+<a href="https://github.com/Kureikode"> </a>
