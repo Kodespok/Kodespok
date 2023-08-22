@@ -1,5 +1,7 @@
 ### Hola, mi nombre es Nicolas Romero 👋
 
+
+<h1> Hola, mi nombre es Nicolas Romero 👋 </h1>
 Soy un apasionado programador con un enfoque en el desarrollo de aplicaciones móviles para Android y iOS, así como en el desarrollo web full stack. La exploración del emocionante mundo de las aplicaciones de escritorio también me cautiva. Mi búsqueda constante de conocimiento se entrelaza con el deseo de retribuir a la comunidad lo que he aprendido.<br><br>A través de plataformas como YouTube, Instagram y Twitch, comparto ideas y lecciones como una forma de devolver a la comunidad y expresar gratitud por todo el conocimiento que ha sido generosamente compartido conmigo.
 
 
