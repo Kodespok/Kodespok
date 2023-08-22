@@ -5,7 +5,7 @@
 A través de plataformas como YouTube, Instagram y Twitch, comparto ideas y lecciones como una forma de devolver a la comunidad y expresar gratitud por todo el conocimiento que ha sido generosamente compartido conmigo. </p>
 
 <h2>Encuentrame en:</h2>
-<a href="discord"> </a>
+<a href="https://discord.gg/kestnURkuA"> </a>
 <a href="https://instagram.com/Kureikode"> </a>
 <a href="https://tiktok.com/@Kureikode"> </a>
 <a href="https://twitch.tv/Kureikode"> </a>
