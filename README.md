@@ -26,5 +26,4 @@ A través de plataformas como YouTube, Instagram y Twitch, comparto ideas y lecc
 <a href="https://github.com/Kureikode"> </a>
 <a href="https://github.com/Kureikode"> </a>
 
-![Gray and Pink Futuristic Gaming Channel Banner](https://github.com/Kureikode/Kureikode/assets/129993636/f6d212dc-193c-4884-901b-b65646f564c1)
-
+<a href="https://github.com/Kureikode"> ![Gray and Pink Futuristic Gaming Channel Banner](https://github.com/Kureikode/Kureikode/assets/129993636/f6d212dc-193c-4884-901b-b65646f564c1) </a>
