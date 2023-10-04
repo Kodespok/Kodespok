@@ -17,6 +17,7 @@ A través de plataformas como YouTube, Instagram y Twitch, comparto ideas y lecc
 [![TikTok](https://img.shields.io/badge/TikTok-@Kureikode-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@kureikode)
 </br>
 [![Web](https://img.shields.io/badge/Web-Kureikode.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](http://kureikode.com)
+[![Link](https://img.shields.io/badge/Links_de_interés-Kureikode.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://kureikode.dev)
 
 ## Tecnologías:
 
