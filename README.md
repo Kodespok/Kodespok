@@ -10,7 +10,7 @@ A través de plataformas como YouTube, Instagram y Twitch, comparto ideas y lecc
 [![YouTube](https://img.shields.io/badge/YouTube-Kureidyzn-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@kureidyzn)
 </br>
 [![Twitch](https://img.shields.io/badge/Twitch-Kureikode-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/kureikode)
-[![Discord](https://img.shields.io/badge/Discord-Kureikode-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
+[![Discord](https://img.shields.io/badge/Discord-Kureikode-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/UaDqQ3SAbt)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@Kureikode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/kureikode)
 [![Instagram](https://img.shields.io/badge/Instagram-@Kureikode-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/kureikode)
