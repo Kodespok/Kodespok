@@ -9,12 +9,12 @@ A través de plataformas como YouTube, Instagram y Twitch, comparto ideas y lecc
 [![YouTube](https://img.shields.io/badge/YouTube-kodespok-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@kodespok)
 [![YouTube](https://img.shields.io/badge/YouTube-SpokDyzn-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@SpokDyzn)
 </br>
-[![Twitch](https://img.shields.io/badge/Twitch-Kureikode-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/kureikode)
-[![Discord](https://img.shields.io/badge/Discord-Kureikode-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/UaDqQ3SAbt)
+[![Twitch](https://img.shields.io/badge/Twitch-kodespok-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/kodespok)
+[![Discord](https://img.shields.io/badge/Discord-kodespok-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/UaDqQ3SAbt)
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@Kureikode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/kodespok)
-[![Instagram](https://img.shields.io/badge/Instagram-@Kureikode-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/kodespok)
-[![TikTok](https://img.shields.io/badge/TikTok-@Kureikode-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@kodespok)
+[![Twitter](https://img.shields.io/badge/Twitter-@kodespok-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/kodespok)
+[![Instagram](https://img.shields.io/badge/Instagram-@kodespok-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/kodespok)
+[![TikTok](https://img.shields.io/badge/TikTok-@kodespok-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@kodespok)
 </br>
 [![Web](https://img.shields.io/badge/Web-kodespok.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](http://kodespok.com)
 [![Link](https://img.shields.io/badge/Links_de_interés-kodespok.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://kodespok.dev)
